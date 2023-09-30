@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+#Get Started with this Team Organizer
+
+##A cool project to go bit deeper into React js. Create Teams, members, like them, delete them and add some colors to them!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started with Create React App
 
 ## Available Scripts
 
